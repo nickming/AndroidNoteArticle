@@ -156,9 +156,11 @@ public void onRestoreInstanceState(Bundle savedInstanceState, PersistableBundle 
      }
      ```
 
-     至此所有的调用流程都已经完成
-     ![activity启动流程](https://github.com/nickming/AndroidNoteArticle/blob/master/pic/acitivity.jpg)
-     
+至此所有的调用流程都已经完成
+
+![Activity启动流程](https://github.com/nickming/AndroidNoteArticle/blob/master/pic/acitivity.jpg)
+
+​     
   ## 小结
   总体来说，onCreate就是activity的启动过程，了解activity的启动过程，更有利于了解Android系统的原理，写出更好的程序。
 
